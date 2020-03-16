@@ -1,2 +1,5 @@
-# daily-coding-problem
-# daily-coding-problem
+# Daily Coding Problem
+
+## Goal
+
+Solve a problem daily to improving coding skills
